@@ -1,5 +1,7 @@
 # Covid-19_Data_Dashboard
 <br>
+<h3>Python Spark Rest API Combined Assignment</h3>
+<br>
 <br>
 Task 1 and Task 2 is performed in Queries.ipynb file.
 <br> 
