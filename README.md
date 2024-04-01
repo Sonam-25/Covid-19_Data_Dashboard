@@ -1,7 +1,7 @@
 # Covid-19_Data_Dashboard
 <h3>Python Spark Rest API Combined Assignment</h3>
 <br>
-Task 1 is extract.py file which extracts the COVID-19 data from provided API to write and save in a csv file.
+Task 1 is extract.py file which extracts the COVID-19 data from provided API to write and save in a csv file (covidCases.csv).
 <br> 
 Task 2 is performed in Queries.ipynb which processes all the queries over the dataframe.
 <br>
