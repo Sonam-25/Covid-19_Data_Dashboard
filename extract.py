@@ -5,7 +5,6 @@ def fetch_country_data(country_name):
     url = f'https://disease.sh/v3/covid-19/countries/{country_name}'
     response = requests.get(url)
     if response.status_code == 200:
-        print("Successfully Fetched!")
         return response.json()
     else:
         print(f"Failed to fetch COVID-19 data for {country_name}. Status code:", response.status_code)
@@ -29,3 +28,5 @@ with open(data, 'w', newline='') as file:
         if country_data:
             writer.writerow([country_data['country'], country_data['tests'], country_data['cases'],
                              country_data['recovered'],country_data['deaths'], country_data['active'], country_data['critical']])
+
+print("Successfully Fetched!")
