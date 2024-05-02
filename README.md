@@ -7,6 +7,9 @@ Task 2 is performed in Queries.ipynb which processes all the queries over the da
 <br>
 Task 3 is perfomed in src>>app.py file and it's rendered html page is located in src>>templates folder.
 <br>
+config.yaml is aconfiguration that allows us to easily adjust settings without modifying the codebase.
+<br>
+requirements.txt involves listing all the Python packages on which our application depends on.
 <br>
 This Python-based web application leverages Flask and PySpark to serve a dynamic COVID-19 data dashboard. It presents up-to-date information on the COVID-19 pandemic across 20 countries, with a focus on various metrics like active cases, deaths, total cases, recoveries, critical cases, and total tests conducted. Users can interact with the dashboard to view specific data visualizations based on different parameters.
 <br>
