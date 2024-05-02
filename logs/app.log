@@ -1,0 +1,5 @@
+2024-05-02 16:12:03,204:WARNING: * Debugger is active!
+2024-05-02 16:12:03,220:INFO: * Debugger PIN: 122-936-256
+2024-05-02 16:14:26,454:INFO: * Detected change in '/Users/sonamkumari/Desktop/helloWorld/PySpark_Assig/src/app.py', reloading
+2024-05-02 16:14:26,454:INFO:Closing down clientserver connection
+2024-05-02 16:14:31,255:INFO:Starting data extraction
