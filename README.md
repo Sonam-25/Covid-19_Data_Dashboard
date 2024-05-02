@@ -1,11 +1,11 @@
 # Covid-19_Data_Dashboard
 <h3>Python Spark Rest API Combined Assignment</h3>
 <br>
-Task 1 is extract.py file which extracts the COVID-19 data from provided API to write and save in a csv file (covidCases.csv).
+Task 1 is src>>extract.py file which extracts the COVID-19 data from provided API to write and save in a csv file (covidCases.csv).
 <br> 
 Task 2 is performed in Queries.ipynb which processes all the queries over the dataframe.
 <br>
-Task 3 is perfomed in app.py file and it's rendered html page is located in templates folder.
+Task 3 is perfomed in src>>app.py file and it's rendered html page is located in src>>templates folder.
 <br>
 <br>
 This Python-based web application leverages Flask and PySpark to serve a dynamic COVID-19 data dashboard. It presents up-to-date information on the COVID-19 pandemic across 20 countries, with a focus on various metrics like active cases, deaths, total cases, recoveries, critical cases, and total tests conducted. Users can interact with the dashboard to view specific data visualizations based on different parameters.
