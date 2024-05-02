@@ -11,7 +11,7 @@ Task 3 is perfomed in app.py file and it's rendered html page is located in temp
 This Python-based web application leverages Flask and PySpark to serve a dynamic COVID-19 data dashboard. It presents up-to-date information on the COVID-19 pandemic across 20 countries, with a focus on various metrics like active cases, deaths, total cases, recoveries, critical cases, and total tests conducted. Users can interact with the dashboard to view specific data visualizations based on different parameters.
 <br>
 
-![alt text](https://github.com/Sonam-25/Covid-19_Data_Dashboard/blob/main/Home_page.png)
+![image](https://github.com/Sonam-25/Covid-19_Data_Dashboard/assets/157121507/ac9d0d90-f798-4327-8919-fca98b95de4e)
 
 <h2>How It Works</h2>
 <br>
@@ -24,4 +24,5 @@ This Python-based web application leverages Flask and PySpark to serve a dynamic
 Each menu option fetches the data in the json format based on their respective subquery.
 <br>
 
-![alt text](https://github.com/Sonam-25/Covid-19_Data_Dashboard/blob/main/subquery_fetching_json_data.png)
+![image](https://github.com/Sonam-25/Covid-19_Data_Dashboard/assets/157121507/0b1bee15-9e42-49d8-bcf8-b61b1b8e8ef2)
+
